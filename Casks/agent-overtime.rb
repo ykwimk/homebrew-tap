@@ -1,6 +1,6 @@
 cask "agent-overtime" do
-  version "0.2.0"
-  sha256 "6143d34ed428649e14c472cab491858e403e5c7cf648a4bbf91a03599d4e95bb"
+  version "0.3.0"
+  sha256 "fdd7a89c177c3adc4cf89683576ec546c2553adf3fbc9310e6cf1f0cc69ed0bb"
 
   url "https://github.com/ykwimk/agent-overtime/releases/download/v#{version}/AgentOvertime-#{version}.dmg"
   name "Agent Overtime"
